@@ -1,2 +1,4 @@
 # second-repo
-Second Repo
+Second Repo  
+Serena Scalzi  
+December 2, 2020
